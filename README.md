@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi there, I'm Ibrahim Moumouni Hima 👋
 
-<!--
-**Ibrahim-Moumouni-Hima-bio/Ibrahim-Moumouni-Hima-bio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ I am a final-year B.Sc. Biotechnology student at Federal University Dutse (FUD), Nigeria, originally from Niger Republic. 
+🔬 Passionate about **Bioinformatics**, **Computational Biology**, and molecular approaches to tackle major health challenges like Sickle Cell Anemia, Type 2 Diabetes, and viral infections.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Tech & Tools
+* **Languages:** French, English, Hausa, Zarma, Arabic.
+* **Bioinformatics & Modeling:** PyMOL, structural biology workflows.
+* **Systems & Data:** Linux, Git & GitHub, hardware diagnostics.
+
+---
+
+###  Professional Goals
+* Pursuing advanced postgraduate studies (Master's in One Health & Ph.D. in Medical Biotechnology).
+* Developing innovative diagnostic and therapeutic strategies for our communities.
+
+ **How to reach me:** Connect with me for research collaborations in life sciences and computational biology.
