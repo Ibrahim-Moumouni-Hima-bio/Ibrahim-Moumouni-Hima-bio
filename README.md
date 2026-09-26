@@ -1,12 +1,12 @@
 ### Hi there, I'm Ibrahim Moumouni Hima 👋
 
  I am a final-year B.Sc. Biotechnology student at Federal University Dutse (FUD), Nigeria, originally from Niger Republic. 
-🔬 Passionate about **Bioinformatics**, **Computational Biology**, and molecular approaches to tackle major health challenges like Sickle Cell Anemia, Type 2 Diabetes, and viral infections.
+Passionate about **Bioinformatics**, **Computational Biology**, and molecular approaches to tackle major health challenges like Sickle Cell Anemia, Type 2 Diabetes, and viral infections.
 
 ---
 
 ###  Tech & Tools
-* **Languages:** French, English, Hausa, Zarma, Arabic.
+* **Languages:** French, English, Hausa, Zarma, a little bit Arabic.
 * **Bioinformatics & Modeling:** PyMOL, structural biology workflows.
 * **Systems & Data:** Linux, Git & GitHub, hardware diagnostics.
 
